@@ -1,4 +1,4 @@
-# Housing-Market-Group-Project
+# Housing Market Group Project
 Project by: Nireesha Abbineni, Allyssa Calhoun, Emily Reynolds, Mrinmayee Kulkarni: August 24, 2019
 
 Housing and the Technology Sector
