@@ -17,9 +17,9 @@ Source Code for the ML Models: MLModels folder
 Platforms utilized: Tableau, Javascript, Python, HTML, Javascript-Plotly, and Machine Learning
 
 A brief overview of the project: 
-![tableau](housingmarket/Resources/ReadMe/ReadMe1.JPG)
-![Javascrip and Plotly](housingmarket/Resources/ReadMe/ReadMe2.JPG)
-![Historical Model](housingmarket/Resources/ReadMe/ReadMe3.JPG)
+![tableau](https://github.com/Nishadows/housingmarket/Resources/ReadMe/ReadMe1.JPG)
+![Javascrip and Plotly](https://github.com/Nishadows/housingmarket/Resources/ReadMe/ReadMe2.JPG)
+![Historical Model](https://github.com/Nishadows/housingmarket/Resources/ReadMe/ReadMe3.JPG)
 
 
 ## Findings
