@@ -18,7 +18,7 @@ Platforms utilized: Tableau, Javascript, Python, HTML, Javascript-Plotly, and Ma
 
 A brief overview of the project: 
 ![tableau](ReadMe/ReadMe1.JPG)
-![Javascrip and Plotly]ReadMe/ReadMe2.JPG)
+![Javascrip and Plotly](ReadMe/ReadMe2.JPG)
 ![Historical Model](ReadMe/ReadMe3.JPG)
 
 
